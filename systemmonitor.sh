@@ -11,7 +11,10 @@ function menu()
 3 :affiche une liste des processus en cours d'exécution.
 4 :voir le fichier log.
 5 :nom des auteurs,version.
-6 :affichage du log"
+6 :affichage du log.
+7 :Menu textuel Graphique.
+8 :Help
+"
     echo "Tapez une commande"
     read var
 
